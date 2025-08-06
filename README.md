@@ -11,7 +11,7 @@ Welcome! This open-source project is designed to help anyone—regardless of bac
 
 ## 🧑‍🏫 Meet Your Mentor
 
-Hi! I’m [Your Name], a native Chinese speaker passionate about QA and teaching.  
+Hi! I’m Jay Zhai, a native Chinese speaker passionate about QA and teaching.  
 I’m learning English and all content here is written in English to help both you and me grow!
 
 - [LinkedIn](your-linkedin-url)
