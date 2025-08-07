@@ -6,6 +6,7 @@ The SDLC is a process used by the software industry to design, develop, and test
 - Design
 - Implementation (Coding)
 - Testing
+- Bug Fixing
 - Deployment
 - Maintenance
 
@@ -16,6 +17,8 @@ The STLC is a sequence of specific actions conducted during the testing process 
 - Test Case Development
 - Environment Setup
 - Test Execution
+- Bug Reporting
+- Bug Fixing & Retesting
 - Test Cycle Closure
 
 Both cycles are essential for delivering reliable software.
