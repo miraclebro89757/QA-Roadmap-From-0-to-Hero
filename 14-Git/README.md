@@ -65,4 +65,11 @@ Git is a distributed version control system that tracks changes in source code a
 
 ---
 
+## 🛠️ 实用工具
+
+### Mac快捷指令
+- [图片拼接快捷指令](./mac-shortcuts-image-stitching.md) - 将剪贴板中的多张图片拼接成一张长图，特别适用于截图拼接和长页面截图
+
+---
+
 **Remember:** Git is a foundational skill for every QA professional. Practice daily, collaborate with your team, and leverage version control to boost your QA impact!
